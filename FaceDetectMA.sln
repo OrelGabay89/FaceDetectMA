@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceDetectMA", "FaceDetectMA\FaceDetectMA.csproj", "{EDA19BAF-E4EB-4BB9-B278-F30E107810D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectDetectMA", "ObjectDetectMA\ObjectDetectMA.csproj", "{D249C1D4-8B22-4A7D-A74E-43E3A87BFFC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA19BAF-E4EB-4BB9-B278-F30E107810D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA19BAF-E4EB-4BB9-B278-F30E107810D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA19BAF-E4EB-4BB9-B278-F30E107810D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA19BAF-E4EB-4BB9-B278-F30E107810D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D249C1D4-8B22-4A7D-A74E-43E3A87BFFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D249C1D4-8B22-4A7D-A74E-43E3A87BFFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D249C1D4-8B22-4A7D-A74E-43E3A87BFFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D249C1D4-8B22-4A7D-A74E-43E3A87BFFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F61F58-CC25-4B74-A7E9-4C96A70897CC}
+	EndGlobalSection
+EndGlobal
